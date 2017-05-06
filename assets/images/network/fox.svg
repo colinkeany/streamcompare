@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 185.6 79.7" style="enable-background:new 0 0 185.6 79.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{clip-path:url(#SVGID_4_);fill:#005794;}
+	.st3{fill:#005794;}
+</style>
+<title>FOX</title>
+<g>
+	<g class="st0">
+		<g>
+			<g>
+				<defs>
+					<polyline id="SVGID_1_" points="0.4,79.4 0.4,0.5 48,0.5 49.4,22.1 22.8,22.1 22.8,32.4 44.5,32.4 44.5,53.9 22.6,53.9 
+						22.7,79.4 0.4,79.4 					"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g class="st1">
+					<defs>
+						<rect id="SVGID_3_" x="0.4" y="-0.2" width="50.2" height="80.3"/>
+					</defs>
+					<clipPath id="SVGID_4_">
+						<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+					</clipPath>
+					<rect x="-16.3" y="-16.2" class="st2" width="82.4" height="112.4"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<polygon class="st3" points="183.4,0.6 159.1,0.6 149.8,17.6 140.6,0.6 115.4,0.6 137.5,38.6 114.1,79.3 138.6,79.4 149.5,59.4 
+	160.5,79.3 185.6,79.3 161.8,38.4 "/>
+<g>
+	<path class="st3" d="M87.1,1.7c-20.8,0-37.6,17.2-37.6,38.4c0,21.2,16.8,38.4,37.6,38.4c20.8,0,37.6-17.2,37.6-38.4
+		C124.7,18.9,107.9,1.7,87.1,1.7z M93.9,55.8c0,3.6-3.1,6.4-6.7,6.4s-6.4-2.9-6.4-6.5l0-31.5c0-3.6,2.9-6.8,6.4-6.8s6.7,3.2,6.7,6.8
+		V55.8z"/>
+</g>
+</svg>
