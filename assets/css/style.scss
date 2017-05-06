@@ -227,16 +227,22 @@ h1, h2, h3, h4, h5, p {
 		margin: 0;
 		li {
 			display: inline-block;
+			float: left;
 			a {
 				display: block;
 				font-size: 14px;
 				text-decoration: none;
 				padding: 0 5px;
-				margin-left: 10px;
+				margin: 2px 0 0 10px;
 				color: #fff;
 				&:hover {
 					text-decoration: underline;
 				}
+			}
+			iframe {
+				position: relative !important;
+				top: -5px;
+				margin-left: 15px;
 			}
 		}
 	}
