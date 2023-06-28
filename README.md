@@ -8,4 +8,4 @@ All contributions are appreciated! Some items that might need regular updates in
 - General changes in channels, pricing or other options
 - General improvements to the UI or functionality
 
-To make suggestions, [contact me directly](mailto:colin.keany@gmail.com)!
+To make suggestions, please open an issue.
